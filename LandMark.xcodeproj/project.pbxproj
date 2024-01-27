@@ -16,6 +16,7 @@
 		7474FC352B6558F000354B7A /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7474FC342B6558EF00354B7A /* ListItemView.swift */; };
 		7474FC372B65597D00354B7A /* GalleryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7474FC362B65597D00354B7A /* GalleryItemView.swift */; };
 		7474FC392B655BCB00354B7A /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7474FC382B655BCB00354B7A /* GalleryView.swift */; };
+		7474FC3B2B65601600354B7A /* RecommendationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7474FC3A2B65601600354B7A /* RecommendationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		7474FC342B6558EF00354B7A /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
 		7474FC362B65597D00354B7A /* GalleryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryItemView.swift; sourceTree = "<group>"; };
 		7474FC382B655BCB00354B7A /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
+		7474FC3A2B65601600354B7A /* RecommendationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				7474FC342B6558EF00354B7A /* ListItemView.swift */,
 				7474FC362B65597D00354B7A /* GalleryItemView.swift */,
 				7474FC382B655BCB00354B7A /* GalleryView.swift */,
+				7474FC3A2B65601600354B7A /* RecommendationView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				7474FC392B655BCB00354B7A /* GalleryView.swift in Sources */,
 				7474FC372B65597D00354B7A /* GalleryItemView.swift in Sources */,
 				7474FC352B6558F000354B7A /* ListItemView.swift in Sources */,
+				7474FC3B2B65601600354B7A /* RecommendationView.swift in Sources */,
 				7474FC332B6556D200354B7A /* ListView.swift in Sources */,
 				7474FC312B6552B200354B7A /* LandMark.swift in Sources */,
 				7474FC1F2B65506400354B7A /* LandMarkApp.swift in Sources */,

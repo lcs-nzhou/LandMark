@@ -14,6 +14,7 @@
 		7474FC312B6552B200354B7A /* LandMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7474FC302B6552B200354B7A /* LandMark.swift */; };
 		7474FC332B6556D200354B7A /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7474FC322B6556D200354B7A /* ListView.swift */; };
 		7474FC352B6558F000354B7A /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7474FC342B6558EF00354B7A /* ListItemView.swift */; };
+		7474FC372B65597D00354B7A /* GalleryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7474FC362B65597D00354B7A /* GalleryItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		7474FC302B6552B200354B7A /* LandMark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandMark.swift; sourceTree = "<group>"; };
 		7474FC322B6556D200354B7A /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		7474FC342B6558EF00354B7A /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
+		7474FC362B65597D00354B7A /* GalleryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				7474FC2D2B6550F200354B7A /* DetailView.swift */,
 				7474FC322B6556D200354B7A /* ListView.swift */,
 				7474FC342B6558EF00354B7A /* ListItemView.swift */,
+				7474FC362B65597D00354B7A /* GalleryItemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7474FC372B65597D00354B7A /* GalleryItemView.swift in Sources */,
 				7474FC352B6558F000354B7A /* ListItemView.swift in Sources */,
 				7474FC332B6556D200354B7A /* ListView.swift in Sources */,
 				7474FC312B6552B200354B7A /* LandMark.swift in Sources */,

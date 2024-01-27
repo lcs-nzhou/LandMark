@@ -28,7 +28,8 @@ struct ListItemView: View {
                 
                 
                 HStack {
-                    Image(systemName: item.isRecommended == true ? "hand.thumbsup.fill" : "hand.thumbsdown")
+                    Image(systemName: item
+                        .isRecommended == true ? "hand.thumbsup.fill" : "hand.thumbsdown")
                         .resizable()
                         .scaledToFit()
                         .frame(height: 20)
